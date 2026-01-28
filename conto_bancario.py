@@ -22,8 +22,8 @@ class ContoBancario:
     def prelievo(self, importo):
     	pass 
 
-    def visalizzaSaldo(self):
-    	pass
+    def visualizzaSaldo(self):
+    	print(f"Il tuo saldo attuale: {self.saldo}")
 
     def visualizzaStorico(self): 
     	pass
